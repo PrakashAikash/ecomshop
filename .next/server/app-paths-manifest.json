@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/admin-view/page": "app/admin-view/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/product/[details]/page": "app/product/[details]/page.js",
+  "/product/listing/all-products/page": "app/product/listing/all-products/page.js",
+  "/api/admin/all-products/route": "app/api/admin/all-products/route.js"
+}

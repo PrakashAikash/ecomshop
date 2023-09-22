@@ -17,7 +17,7 @@
     "joi": "^17.9.2",
     "js-cookie": "^3.0.5",
     "jsonwebtoken": "^9.0.1",
-    "mongoose": "^7.3.2",
+    "mongoose": "^7.5.2",
     "next": "13.4.9",
     "postcss": "8.4.25",
     "react": "18.2.0",

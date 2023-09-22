@@ -27,7 +27,7 @@ export default function ProductTile({ item }) {
             className={`mr-3 text-sm font-semibold ${
               item.onSale === "yes" ? "line-through" : ""
             }`}
-          >{`$ ${item.price}`}</p>
+          >{`₹ ${item.price}`}</p>
           {item.onSale === "yes" ? (
             <p className="mr-3 text-sm font-semibold text-red-700">{`$ ${(
               item.price -
